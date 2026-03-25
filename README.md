@@ -35,7 +35,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gaebalai/gaebalai/master/img/snake.svg">
 </picture>
 
-
 </div>
 
 </div>
