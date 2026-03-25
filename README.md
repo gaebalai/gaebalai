@@ -1,0 +1,41 @@
+<div align="center">
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,typescript,rust,go,react,nextjs,prisma,docker,aws,gcp,pytorch,tensorflow&perline=12" />
+
+<br/>
+
+</div>
+
+---
+
+<div align="center">
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=gaebalai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaebalai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170"/>
+
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=gaebalai&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaebalai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaebalai/gaebalai/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaebalai/gaebalai/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gaebalai/gaebalai/master/img/snake.svg">
+</picture>
+
+
+</div>
+
+</div>
